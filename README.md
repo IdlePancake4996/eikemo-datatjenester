@@ -1,2 +1,2 @@
-# eikemo
-Nettside for Eikemo Datatenester
+# Eikemo Datatjenester
+Nettside for Eikemo Datatjenester EB
